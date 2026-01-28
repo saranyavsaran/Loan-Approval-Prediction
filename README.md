@@ -21,14 +21,22 @@ A small number of applicants have very high income but apply for relatively low 
 
 Recommendations:
 •	Use a multi-factor approach for loan approvals instead of relying only on income.
+
 •	Create income-based loan segments to match loan amounts with repayment capacity.
+
 •	Focus on graduate applicants with targeted loan products.
+
 Final Story from the DashBoard:
 •	The dashboard combines key applicant attributes such as education, income, loan amount, and loan status to provide a unified view of loan application patterns.
+
 •	Graduated applicants account for the majority of loan applications, indicating a strong link between education level and financial participation.
+
 •	Applicant income shows a positive correlation with loan amount, suggesting that income influences the size of loans requested.
+
 •	Loan approval status has a weak correlation with income and loan amount, highlighting that approvals depend on multiple eligibility factors.
+
 •	A small group of high-income applicants requesting lower loan amounts reveals conservative borrowing behavior or alternative funding sources.
+
 •	Overall, the dashboard enables data-driven insights that support better lending decisions, risk assessment, and strategic planning.
 
 
